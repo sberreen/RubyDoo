@@ -2,7 +2,8 @@ RubyRubyDoo::Application.routes.draw do
   get "pages/home"
   get "about" => "pages#about"
   get "home" => "pages#home"
-   get "login" => "pages#login"
+  get "login" => "pages#login"
+  get "signup" => "pages#signup"
 
 
   # The priority is based upon order of creation:
