@@ -1,12 +1,14 @@
 @import url(http://fonts.googleapis.com/css?family=Lusitana:400,700);
 
-$body-bg:     #f1c40f;
-$font-family-sans-serif: 'Lusitana';
-$navbar-default-bg: #3498db;
+$body-bg:                   #999966;
+$font-family-sans-serif:    'Lusitana';
+$navbar-default-bg:         #FFFFFF;
 $navbar-default-link-color: black;
-$brand-primary: #3498db;
-$jumbotron-bg: #ecf0f1;
+$brand-primary:             #999966;
+$jumbotron-bg:              #ecf0f1;
+
 @import 'bootstrap';
+
 .center {
 	text-align: center;
 }
